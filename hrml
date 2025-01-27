@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mehrab's Show</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            background: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Mehrab's Show</h1>
+    </header>
+    <div class="content">
+        <h2>About Mehrab</h2>
+        <p>Hi, I’m Mehrab Ahmed Chowdhury, a 24-year-old master's student in Analytics and Systems, currently living in the Bronx. I’m an international student from Bangladesh with a passion for data analytics, brand marketing, and social media strategies.</p>
+        <p>I’m the founder of RenewCycle, a recycling-focused company, and also involved in several other initiatives such as Save Sylhet and BD Clean. When I’m not working or studying, I enjoy gardening, playing cricket, and traveling.</p>
+        <h2>Dreams and Aspirations</h2>
+        <p>My dream is to make a lasting impact in the field of analytics and systems while contributing to a more sustainable world through innovative solutions and community-driven projects.</p>
+    </div>
+    <footer>
+        <p>&copy; 2025 Mehrab's Show. All rights reserved.</p>
+    </footer>
+</body>
+</html>
